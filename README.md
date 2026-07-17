@@ -28,10 +28,12 @@ Colecciones gestionadas en memoria, con carga de datos de prueba desde un archiv
 A diferencia de versiones anteriores del proyecto (semanas previas de la asignatura), esta entrega funciona completamente por consola (sin interfaz gráfica), mediante un menú interactivo.
 
 📁 src/
+
 ├── app/     # Punto de entrada del sistema (Main.java) y menú de consola
 ├── model/   # Clases de dominio (Persona, Cliente, GuiaTuristico, Proveedor, Direccion, Rut, Registrable)
 ├── data/    # Gestión de colecciones y carga de datos (GestorEntidades, GestorDatos)
 ├── utils/   # Excepciones personalizadas (RutInvalidoException)
+
 📁 resources/
 └── datos.txt   # Datos de prueba (Clientes, Guías Turísticos y Proveedores) 
 
