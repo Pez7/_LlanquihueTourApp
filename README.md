@@ -27,8 +27,10 @@ Colecciones gestionadas en memoria, con carga de datos de prueba desde un archiv
 
 A diferencia de versiones anteriores del proyecto (semanas previas de la asignatura), esta entrega funciona completamente por consola (sin interfaz gráfica), mediante un menú interactivo.
 
+## 🧱 Estructura general del proyecto
+ 
+```
 📁 src/
-
 ├── app/     # Punto de entrada del sistema (Main.java) y menú de consola
 ├── model/   # Clases de dominio (Persona, Cliente, GuiaTuristico, Proveedor, Direccion, Rut, Registrable)
 ├── data/    # Gestión de colecciones y carga de datos (GestorEntidades, GestorDatos)
@@ -36,7 +38,7 @@ A diferencia de versiones anteriores del proyecto (semanas previas de la asignat
 
 📁 resources/
 └── datos.txt   # Datos de prueba (Clientes, Guías Turísticos y Proveedores) 
-
+```
 
 | Clase | Paquete | Rol |
 |---|---|---|
@@ -59,13 +61,12 @@ A diferencia de versiones anteriores del proyecto (semanas previas de la asignat
 Al ejecutar el programa, se cargan automáticamente los registros de prueba desde resources/datos.txt (Clientes, Guías Turísticos y Proveedores). Luego se despliega un menú de consola con las siguientes opciones:
 
 
-Listar registros cargados desde archivo
-Listar registros agregados manualmente
-Listar todos los registros
-Agregar un nuevo registro manualmente (Cliente, Guía Turístico o Proveedor, solicitando los datos por consola)
-Filtrar guías turísticos por idioma
-Salir
-
+1. **Listar registros cargados desde archivo**
+2. **Listar registros agregados manualmente**
+3. **Listar todos los registros**
+4. **Agregar un nuevo registro manualmente** (Cliente, Guía Turístico o Proveedor, solicitando los datos por consola)
+5. **Filtrar guías turísticos por idioma**
+6. **Salir**
 
 Al listar los registros, el sistema recorre una lista polimórfica de tipo List<Registrable> y muestra el resumen de cada objeto según su tipo real, marcando además con instanceof a los clientes con más de 4 reservas como "Cliente VIP".
 
