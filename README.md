@@ -73,7 +73,7 @@ Al listar los registros, el sistema recorre una lista polimórfica de tipo List<
 Clona el repositorio:
 
 
-   git clone https://github.com/TU-USUARIO/TU-REPOSITORIO
+   git clone https://github.com/Pez7/_LlanquihueTourApp
 
 
 Abre el proyecto en NetBeans.
@@ -82,4 +82,4 @@ Ejecuta la clase principal Main, ubicada en el paquete app, con el botón Run (�
 Interactúa con el menú desde la consola de salida de NetBeans (pestaña Output).
 
 
-Repositorio GitHub: https://github.com/TU-USUARIO/TU-REPOSITORIO
+Repositorio GitHub: https://github.com/Pez7/_LlanquihueTourApp
