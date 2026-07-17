@@ -1,0 +1,11 @@
+CLIENTE;5;Juan Pérez;12345678-9;juan.perez@correo.cl;912345678;Av. Vicente Pérez Rosales;1234;Puerto Varas;Los Lagos
+CLIENTE;2;Camila Soto;11222333-4;camila.soto@correo.cl;922334455;Camino a Ensenada;250;Puerto Varas;Los Lagos
+CLIENTE;7;Andrés Muñoz;19876543-2;andres.munoz@correo.cl;933445566;Av. Diego Portales;890;Puerto Montt;Los Lagos
+GUIA;ingles;Excursiones;María López;98765432-1;maria.lopez@correo.cl;987654321;Ruta 225;500;Puerto Varas;Los Lagos
+GUIA;aleman;Rutas Culturales;Felipe Rojas;15678234-5;felipe.rojas@correo.cl;945678123;Camino Nueva Braunau;120;Puerto Varas;Los Lagos
+GUIA;español;Tours Gastronómicos;Valentina Díaz;20345678-K;valentina.diaz@correo.cl;956789234;Av. Costanera;340;Frutillar;Los Lagos
+GUIA;portugues;Paseos Lacustres;Ignacio Bravo;16789234-5;ignacio.bravo@correo.cl;967812345;Av. Kennedy;220;Puerto Varas;Los Lagos
+GUIA;ingles;Excursiones;Constanza Vidal;21456789-3;constanza.vidal@correo.cl;978123456;Camino Frutillar Bajo;60;Frutillar;Los Lagos
+PROVEEDOR;Transporte;Buses Sur Ltda.;Ruta 225;10;Puerto Varas;Los Lagos;76543210-K;contacto@busessur.cl
+PROVEEDOR;Gastronómico;Banqueteria buena SpA;Av. Costanera;780;Puerto Varas;Los Lagos;80123456-3;reservas@lagoazul.cl
+PROVEEDOR;Alojamiento;Cabañas Los Volcanes Ltda.;Camino a Ensenada;45;Puerto Varas;Los Lagos;77889900-1;contacto@losvolcanes.cl
