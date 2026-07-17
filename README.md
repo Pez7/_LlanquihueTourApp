@@ -33,7 +33,7 @@ A diferencia de versiones anteriores del proyecto (semanas previas de la asignat
 ├── data/    # Gestión de colecciones y carga de datos (GestorEntidades, GestorDatos)
 ├── utils/   # Excepciones personalizadas (RutInvalidoException)
 📁 resources/
-└── datos.txt   # Datos de prueba (Clientes, Guías Turísticos y Proveedores)
+└── datos.txt   # Datos de prueba (Clientes, Guías Turísticos y Proveedores) 
 
 
 | Clase | Paquete | Rol |
@@ -82,4 +82,6 @@ Ejecuta la clase principal Main, ubicada en el paquete app, con el botón Run (�
 Interactúa con el menú desde la consola de salida de NetBeans (pestaña Output).
 
 
+
 Repositorio GitHub: https://github.com/Pez7/_LlanquihueTourApp
+
