@@ -33,7 +33,7 @@ A diferencia de versiones anteriores del proyecto (semanas previas de la asignat
 ├── data/    # Gestión de colecciones y carga de datos (GestorEntidades, GestorDatos)
 ├── utils/   # Excepciones personalizadas (RutInvalidoException)
 📁 resources/
-└── datos.txt   # Datos de prueba (Clientes, Guías Turísticos y Proveedores)
+└── datos.txt   # Datos de prueba (Clientes, Guías Turísticos y Proveedores) 
 
 
 | Clase | Paquete | Rol |
